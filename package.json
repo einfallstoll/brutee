@@ -1,0 +1,27 @@
+{
+    "name": "brutee",
+    "version": "1.0.0",
+    "description": "One of the smallest permutation-generators out there.",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/einfallstoll/brutee.git"
+    },
+    "keywords": [
+        "bruteforce",
+        "permutation",
+        "brute",
+        "brutee"
+    ],
+    "author": "Fabio Poloni <fabio@APP-roved.com> (http://APP-roved.com)",
+    "license": "BSD-2-Clause",
+    "bugs": {
+        "url": "https://github.com/einfallstoll/brutee/issues"
+    },
+	"devDependencies": {
+		"mocha": "~1.17.0"
+	}
+}
